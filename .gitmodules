@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:whoo/docker-ossec-client.git
+[submodule "Server"]
+	path = Server
+	url = git@github.com:whoo/docker-ossec-server.git
