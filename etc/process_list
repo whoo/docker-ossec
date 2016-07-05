@@ -1,0 +1,3 @@
+DB_DAEMON=ossec-dbd
+CSYSLOG_DAEMON=ossec-csyslogd
+CSYSLOG_DAEMON=""

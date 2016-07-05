@@ -1,0 +1,6 @@
+2016/06/19 12:55:36 ossec-authd: INFO: Started (pid: 9).
+2016/06/19 12:58:19 ossec-authd: INFO: New connection from 172.17.0.3
+2016/06/19 12:58:19 ossec-authd: INFO: Received request for a new agent (2e6efb45eaa3) from: 172.17.0.3
+2016/06/19 12:58:19 ossec-authd: INFO: Agent key generated for 2e6efb45eaa3 (requested by 172.17.0.3)
+2016/06/19 12:58:19 ossec-authd: INFO: Agent key created for 2e6efb45eaa3 (requested by 172.17.0.3)
+2016/06/19 12:59:30 ossec-authd(1225): INFO: SIGNAL Received. Exit Cleaning...

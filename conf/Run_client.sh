@@ -1,2 +1,2 @@
-docker run --rm --link OssecServ:OssecServ docker-client
+docker run --rm --link OssecServ:OssecServ who0/docker-ossec-client
 
