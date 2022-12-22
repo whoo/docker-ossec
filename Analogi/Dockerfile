@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:bullseye
 RUN apt-get -y update  && apt-get -y upgrade
 RUN apt-get -y install nginx php5-fpm php5-mysql git
 RUN cd /home && git clone https://github.com/ECSC/analogi.git
